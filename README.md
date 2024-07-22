@@ -11,3 +11,7 @@ The algorithm used here is DQN and Policy used is Mlp Policy , which i had studi
 Visulaisation
 I have rendered the environment in text form with this-> '-' as the table and this-> '0' as the ball
 
+References
+Reinforcement Learning :- https://www.youtube.com/watch?v=Mut_u40Sqz4 ,
+Practice from here :- https://colab.research.google.com/github/huggingface/deep-rl-class/blob/master/notebooks/unit1/unit1.ipynb#scrollTo=HqzznTzhNfAC ,
+Theory :- https://huggingface.co/learn/deep-rl-course/en/unit1/introduction
